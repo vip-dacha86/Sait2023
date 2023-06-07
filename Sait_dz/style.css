@@ -1,0 +1,21 @@
+strong {
+    background-color: rgb(135, 135, 187);
+}
+body {
+    background-color: rgb(9, 239, 55);
+    
+}
+p{
+    color: rgb(212, 234, 11);
+}
+h1{
+    color: rgb(209, 13, 6);
+}
+
+
+   li{
+   Элемент списка 1 color: rgb(185, 9, 135);
+}
+button{
+    color: rgb(7, 241, 22);
+}
